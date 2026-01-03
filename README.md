@@ -129,5 +129,8 @@ Environment variable alternative to set the wordlist path (overridden by `-w`).
 * `1` wordlist not readable
 * `2` invalid usage (missing input or no alphabetic characters)
 
-```
-```
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## Credits
+**Author:** Léon "Avic" Simmons ([@Avicennasis](https://github.com/Avicennasis))
